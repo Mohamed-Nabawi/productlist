@@ -1,0 +1,60 @@
+@media only screen and (max-width: 600px){body{
+    font-family: 'Playfair Display', serif;
+    background-color: #FEFCFC;
+    color: black;
+    display: flex;
+}}
+.form-control{
+    width: 250px;
+
+    height: 25px;
+}
+.form-group{
+    margin-top: 5%;
+   
+}
+.c{
+    margin-left: 87%;
+    top: 54px;
+}
+.s{
+    position: absolute;
+    top: 54px;
+    left: 65%;
+}
+.ss{
+    position: absolute;
+    top: 55px;
+    left: 85%;
+    
+}
+.product{
+    width: 200px;
+    height: 150px;
+    border-style: groove;
+    border-color: black;
+    padding-top: 5;
+    text-align: center;
+   display: inline-grid;
+   margin-bottom:20 ;
+   margin-left: 15;
+   padding-left: 15;
+    
+}
+
+#description{
+     color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
